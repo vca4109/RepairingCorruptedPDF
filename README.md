@@ -1,4 +1,4 @@
-🛠️ PDF Repair Tool (using pikepdf)
+🛠️ PDF Repair Tool (using pikepdf)-
 This Python script attempts to repair a corrupted PDF file by opening and re-saving it using the pikepdf library. It’s a simple but powerful utility for recovering damaged or unreadable PDF files.
 
 💾 How It Works
